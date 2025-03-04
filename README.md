@@ -2,10 +2,10 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d73135&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Marcio+Nascimento+Costa+Lima;I'm+34+years+old;I+from+Brasil,+MG/BH;I+study+information+systems+at+PUC+MINAS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Interning at Companhia de Tecnologia da Informação do Estado de Minas Gerais - PRODEMGE; 
-- 🌱 Going deeper into TypeScript, Angular and ReacNative studies;
-- 🤔 Looking for opportunities in the area of systems development for personal improvement;
-- 💬 We can talk about development, brazilian legislation, games🎮, series 🎥 and books📚 ❤️
+- 🔭 Interning at Grupo Prover (Prover - soluções em tecnologia); 
+- 🌱 Going deeper into Gerkhin, QA, Cucumber and testes de software;
+- 🤔 Looking for opportunities in the area of QA quality assurance;
+- 💬 We can talk about IT, brazilian legislation, games🎮, series 🎥 and books📚 ❤️
 - ⚡ Fun fact: I'm a law graduate and recently switched to Tech. 📖
 
 <div align="center">  
